@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+
+node_modules/
+.idea/
+.vscode/
+
+uploads/
+file_export_v4/
+Practice Code/
